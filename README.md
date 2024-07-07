@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 email: **hajibegloo.javad@gmail.com**
+- 📫 email: **javad.hajibeigloo@gmail.com**
   
 - 🌐 linkedin: **[MohammadJavad Hajibegloo](https://www.linkedin.com/in/hajibegloo/)**
 
