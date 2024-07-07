@@ -3,9 +3,6 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 💬 Ask me about **Vue, Js**
-
-
 <h3 align="left">Connect with me:</h3>
 
 - 📫 email: **hajibegloo.javad@gmail.com**
