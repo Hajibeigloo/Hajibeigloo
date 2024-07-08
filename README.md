@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/22401814/180605987-b4b14081-4005-4ea1-bcfd-cbe7c3bf36ef.gif" width="25px">
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200px">, I'm MohammadJavad</h1>
+, I'm MohammadJavad</h1>
 <h3 align="center">A frontend developer</h3>
 
 - 🌱 I’m currently learning **Vue**
