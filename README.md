@@ -8,7 +8,7 @@
 
 - 📫 email: **javad.hajibeigloo@gmail.com**
   
-- 🌐 linkedin: **[MohammadJavad Hajibegloo](https://www.linkedin.com/in/hajibegloo/)**
+- 🌐 linkedin: **[MohammadJavad Hajibegloo](https://www.linkedin.com/in/hajibegloo/)** (unavailable for now!)
 
 <p align="left">
 </p>
