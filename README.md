@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 
 - 📫 email: **javad.hajibeigloo@gmail.com**
   
@@ -13,16 +13,44 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
+- Tools:
+
+<table align="middle">
+  <tr>
+    <td>
+       <img src="https://skillicons.dev/icons?i=js" alt="Javascript" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=css" alt="Css3" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=sass"  alt="Sass" />
+    </td>
+        <td>
+       <img src="https://skillicons.dev/icons?i=tailwind"  alt="Tailwind" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=figma"  alt="Figma" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=vscode"  alt="VisualStudio Code" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=github"  alt="GitHub" />
+    </td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    </td>
+  </tr>
+</table>
 
 - languages:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajibeigloo&show_icons=true&locale=en&layout=compact" alt="hajibeigloo" /></p>
+
+<h3 align="left">Work Report :</h3>
+<img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hajibeigloo&theme=vue-dark&hide_border=true" alt="zumrudu-anka" />
