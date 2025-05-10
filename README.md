@@ -2,13 +2,13 @@
 , I'm MohammadJavad</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **TypeScript**
 
 <h3 align="left">Connect with me :</h3>
 
 - 📫 email: **javad.hajibeigloo@gmail.com**
   
-- 🌐 linkedin: **[MohammadJavad Hajibegloo](https://www.linkedin.com/in/hajibegloo/)** (unavailable for now!)
+- 🌐 linkedin: **[MohammadJavad Hajibigloo](https://www.linkedin.com/in/hajibigloo/)**
 
 <p align="left">
 </p>
